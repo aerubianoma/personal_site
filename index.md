@@ -1,16 +1,10 @@
 # Welcome to aerubianoma GitHub Page
 
-You can use the [editor on GitHub](https://github.com/aerubianoma/personal_site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 - 👀 I’m interested in Machine Learning, AI and numerical solutions to PDEs (VFEM)
 - 🌱 I’m currently learning Data Science for professional purposes
 - 💞️ I’m looking to collaborate on Projects that need a mathematical knowledge
-<!---
-aerubianoma/aerubianoma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
 ### **¿What do you want to see?**:
 
 - [🔧 Skills](#skills)
@@ -85,13 +79,3 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aerubianoma/personal_site/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
