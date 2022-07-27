@@ -1,8 +1,9 @@
 # Welcome to aerubianoma GitHub Page
 
-- 👀 I’m interested in Machine Learning, AI and numerical solutions to PDEs (VFEM)
-- 🌱 I’m currently learning Data Science for professional purposes
-- 💞️ I’m looking to collaborate on Projects that need a mathematical knowledge
+- 📈 Visiting research student at Delaware University.
+- 👀 I’m interested in Machine Learning, AI and numerical solutions to PDEs (VFEM).
+- 🌱 I’m currently learning Data Science for professional purposes.
+- 💞️ I’m looking to collaborate on Projects that need a mathematical knowledge.
 
 
 ### **¿What do you want to see?**:
